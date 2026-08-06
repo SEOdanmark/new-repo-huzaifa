@@ -19,222 +19,175 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
 <style type="text/css">
-  .c2109c7fe63da9595c3074caa47bb9389{
-font-size: 2rem !important;
+  .u4c6edf6d497c60894f90b364b7560823 .x1e175cccfb4fcdde0b15fe3cb713dcb2{
+background:#f0e0e0!important;
 }
-.x433058ca208a71208ab3ef134bd91997{
-font-size: 20.1px;
-font-weight: bold;
-}
-.t3db0caf5b91d48cc273167a9acb40403 *{
-color: white !important;
-}
-.fd4f26b8fbf443b222d2fe7f3e753f46c i:hover{
-background: white;
-color: #ffffff;!important;
+.w6a65ada7104c3c06c1ecdfc640ec91cd i{
+border-radius: 50%;
+width: 36.9px;
 line-height: 35px;
-border-radius: 50%;
-width: 36.6px;
 text-align: center;
-height: 36.8px;
+height: 37.5px;
 }
-.b20e25c25f98a31a66cdd54a320e20d31 p,.b20e25c25f98a31a66cdd54a320e20d31 span,.b20e25c25f98a31a66cdd54a320e20d31 label{
-font-size:19px!important;
-}
-.c02e8f81090347f422d293cbb3a45f1d9 .y4bb43ed24c6c82f165927bd8b992183a *{
-color:#000000;
-}
-.t9c6d341c2de7b298503b6012b55101ea{
-background-color: #040404;
-font-size: 30px;
-height: 55.7px;
-min-width: 55.6px;
-padding: 0.7rem;
-padding-top: 13.4px;
-color: #fff !important;
-border: 1px solid #040404;
-border-radius: 50%;
-}
-.y1a1d0b3beb36007a0185013f2e380e80:hover{
-box-shadow: 0 50.1px 50.2px -25px rgb(0 0 0 / 30%);
+.vd0a41d38b8c3c5ccf6b2730e9df9d962:hover{
+box-shadow: 0 50.2px 50.4px -25px rgb(0 0 0 / 30%);
 transform: rotate(-2deg) scale(1.03);
 }
-.c02e8f81090347f422d293cbb3a45f1d9 .row-item.u69cc81f7fd30fcd48b60603d0d1ca0d8{
-background: #c8c5c5;
+.u4c6edf6d497c60894f90b364b7560823 .waaec0d09b8e7639f65e61322e9186e0a{
+background:#e6edf5!important ;
 }
-.x57977ddbd411b3a971923b84fbe7a64e{
-font-size:19px!important;
-color: #737373;
+.u4c6edf6d497c60894f90b364b7560823 .row-item.y8467195735b5b0f53d989b04d807a35b{
+background: #cfcccc;
 }
-.navbar a{
-font-size: 15.1px!important;text-decoration: none;text-transform:uppercase;
-font-weight: bold;
-}
-.c02e8f81090347f422d293cbb3a45f1d9 .w80678d6c23e26f0d02cfbce09947d67e{
+.yea726349903677c926ea945600a824a0 .card{
+position: relative;
+z-index: 1;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 margin-bottom: 1.5rem;
 }
-.u001afe0c828ee6d6438dfbeaccd5af39{
-position: relative;
-min-height: 600px;
-}
-.b20e25c25f98a31a66cdd54a320e20d31{
-background:#f9f6f3;
-}
-.c02e8f81090347f422d293cbb3a45f1d9 .u69cc81f7fd30fcd48b60603d0d1ca0d8{
+.u4c6edf6d497c60894f90b364b7560823 .y8467195735b5b0f53d989b04d807a35b{
 background:#f9ebdc!important;
 }
-.zd86e89b2ed1a034615e961a5e9eb35fc{
-position: relative;
-z-index: 1;
+.y501b408637e3f60e83f5d2f175c80c4b{
+font-size: 48px!important;
 }
-.z35a72e0912d514a88e460bddee7fe605{
-font-size:48px!important;
+iframe{
+border: none!important;
 }
-.c02e8f81090347f422d293cbb3a45f1d9 .v56c566d166945e8ae4ee8c2f91a750fe *{
-color:#000000;
+.f26bbb734273f09e439151ef02ddc5f56{
+font-size:19px!important;
+color: #707070;
 }
-.c02e8f81090347f422d293cbb3a45f1d9 .card-img{
-margin-bottom: 1.7rem;
-text-align: left;
-}
-.b20e25c25f98a31a66cdd54a320e20d31 a{
-font-size:19px;
-}
-.c02e8f81090347f422d293cbb3a45f1d9 .wf1a3055350a945746ec5944510131370{
-background:#e6efeb!important;
-}
-.c02e8f81090347f422d293cbb3a45f1d9 .wf1a3055350a945746ec5944510131370 *{
-color:#000000;
-}
-.fd4f26b8fbf443b222d2fe7f3e753f46c i{
-border-radius: 50%;
-width: 36.5px;
-line-height: 35px;
-text-align: center;
-height: 36.9px;
+.yea726349903677c926ea945600a824a0 .card .card-body{
+padding: 1.75rem 2rem;
+background:#ffffff;
 }
 a{
 text-decoration: none;
 }
-.y4bb43ed24c6c82f165927bd8b992183a{
-background:#f9f6f3!important ;
+.d0598e337d7cc648e1c059b2e380b029d a{
+font-size:19px;
 }
-.c02e8f81090347f422d293cbb3a45f1d9 .y4bb43ed24c6c82f165927bd8b992183a{
-background:#f0e0e0!important;
-}
-footer{
-background:#f1f1f1;
-color:#070707;
-}
-.df58b390879aee003d75cf9be4829ed79{
-color: #4d4d4d;
-}
-.f59982be1df60679099824dd99080b026 .card:last-child{
-margin-bottom: 0;
-}
-.f59982be1df60679099824dd99080b026{
-position: relative;
-z-index: 1;
-}
-.f59982be1df60679099824dd99080b026 .card .card-body{
-padding: 1.75rem 2rem;
-background:#f9f6f3;
-}
-.fce4e0305d12fabf64f1009ea12be7d74{
-color: #a1a1a1;
-font-size: 19.7px;
-margin-bottom: 21px;
-}
-.x33aa5a0d694a800e231f6e0f7016c0d9{
-font-size: 48px!important;
-}
-.tdf1c4b2b41e8bce2a92fb367db6944fd{
+.bba38b4cddd2971173878b1e74e73d82c{
 max-height: 300px;
 overflow-y: auto;
 }
-.c02e8f81090347f422d293cbb3a45f1d9 .row-item{
+.u4c6edf6d497c60894f90b364b7560823 .row-item{
 padding: 3rem;
 padding-top: 3.7rem;
 height: 100%;
 }
-.bbdac5671eeda73a77abacad4b10f532c:hover,.a190c3e5b73612cb7829aa05f8b9fa811:hover{
+.vb1c319fae54518694278269a1cca90a8{
+text-decoration: underline!important;color:#5fc263!important
+}
+footer *{
+font-size:19px !important;
+}
+.nav-item{
+padding-left:7.6px;
+padding-right:8.5px;
+padding-top:5.5px;
+padding-bottom:5.2px;
+}
+.y71514cc666992a832decf7e4b877d678 a,.d0598e337d7cc648e1c059b2e380b029d a{
+color:#000000!important;
+text-decoration: underline !important;
+}
+.navbar{
+background: black;padding-top:3px;padding-bottom:3px;position:fixed;top:0;width:100%;z-index:10000
+}
+footer a{
+color:#010101;
+text-decoration: underline;
+}
+a:hover{
+color:#ffffff;background:#4caf50!important;
+}
+body{
+color: #303030;background-color:#ffffff!important
+}
+.u4c6edf6d497c60894f90b364b7560823 .yddf04d5f2e83ab200f0ec40abe767369{
+background:#e6efeb!important;
+}
+.yea726349903677c926ea945600a824a0 .card .card-header span{
+font-size: 1.5rem;
+}
+*{
+font-family: 'Inconsolata', sans-serif;
+}
+.cb7e0fc00048c3eca8c3790affd78f153{
+background-color: #030303;
+font-size: 30.3px;
+height: 56.2px;
+min-width: 55.6px;
+padding: 0.7rem;
+padding-top: 13.3px;
+color: #fff !important;
+border: 1px solid #010101;
+border-radius: 50%;
+}
+.yea726349903677c926ea945600a824a0{
+position: relative;
+z-index: 1;
+}
+.yea726349903677c926ea945600a824a0 .card .card-header .collapsed{
+color: #101360;
+}
+.w976f1c87d0805ee5ddc17607ebf67582{
+font-size: 2rem !important;
+}
+html{
+scroll-behavior: smooth;
+}
+.vd0a41d38b8c3c5ccf6b2730e9df9d962{
+transition: all 0.3s; 
+}
+.c4bb84ba441ecfaaab322699fdc59da18:hover,.yf58ff9775a88c4110ef8882ac3411e77:hover{
 background-size: 100% 100% !important;
 background: #4caf50!important;
 background-repeat: no-repeat !important;
 background-position: 0 90% !important;
 transition: background-size 0.2s ease-in !important;
 }
-.c02e8f81090347f422d293cbb3a45f1d9 .v56c566d166945e8ae4ee8c2f91a750fe{
-background:#e6edf5!important ;
+.yea726349903677c926ea945600a824a0 .card .card-header .collapsed span{
+-webkit-transform: rotate(-180deg);
+transform: rotate(-180deg);
 }
-.navbar{
-background: black;padding-top:3px;padding-bottom:3px;position:fixed;top:0;width:100%;z-index:10000
+.w6a65ada7104c3c06c1ecdfc640ec91cd i:hover{
+background: white;
+color: #ffffff;!important;
+line-height: 35px;
+border-radius: 50%;
+width: 37.5px;
+text-align: center;
+height: 36.6px;
 }
-.nav-link{
-color: #ffffff;
-
+.ff0bfed5bff2fc8dde3fa66eb929b34f8{
+color: #434343;
 }
-.f59982be1df60679099824dd99080b026 .card{
-position: relative;
-z-index: 1;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
-margin-bottom: 1.5rem;
-}
-.t96f6c38be8fcf9f48b09a3550989934c{
-font-size: 14px;
-}
-body{
-color: #2d2d2d;background-color:#f9f6f3!important
-}
-.navbar-toggler span{
-display: flex;
-align-items: center;
-color:white;
-justify-content: center;
-border: 1px solid lightgrey;
-border-radius: 3px;
-}
-.tcedda67b531629a4d3bb6b649bdd3c93{
-width: 100%;
-max-height: 720px;
-object-fit: cover;
-object-position: center;
-display: block;
-max-height: 100%;
-max-width: 100%;
-margin: auto;
-position: absolute;
-top: 0;
-left: 0;
-right: 0;
-}
-.c02e8f81090347f422d293cbb3a45f1d9 .row-item.y4bb43ed24c6c82f165927bd8b992183a{
-background: #bddae0;
-}
-.f59982be1df60679099824dd99080b026 .card .card-body p:last-child{
-margin-bottom: 0;
-}
-.vd1359fa91df4a899576c7b87ab5c9d73 a,.b20e25c25f98a31a66cdd54a320e20d31 a{
-color:#121212!important;
-text-decoration: underline !important;
-}
-.v56c566d166945e8ae4ee8c2f91a750fe *{
+.u4c6edf6d497c60894f90b364b7560823 .yddf04d5f2e83ab200f0ec40abe767369 *{
 color:#000000;
 }
-.vd1359fa91df4a899576c7b87ab5c9d73{
-background:#f9f6f3;
-color:#121212;
+.d0598e337d7cc648e1c059b2e380b029d{
+background:#ffffff;
 }
-footer *{
-font-size:19px !important;
+.eba93af04032df74a8c39c5c189650458{
+color: #9a9a9a;
+font-size: 19.9px;
+margin-bottom: 21.5px;
 }
-footer a{
-color:#070707;
-text-decoration: underline;
+.wf5ab4243c0c1b309c4dd1bf9237ccfb8{
+position: relative;
+min-height: 600px;
 }
-.f59982be1df60679099824dd99080b026 .card .card-header .collapsed{
-color: #0d105d;
+.c74b17370ed38d6012f48596f9404da45{
+position: relative;
+z-index: 1;
 }
-.f59982be1df60679099824dd99080b026 .card .card-header{
+.ze34924f6e6c81ab273fb060aa5e2b55b{
+font-size: 20.4px;
+font-weight: bold;
+}
+.yea726349903677c926ea945600a824a0 .card .card-header{
 cursor: pointer;
 padding: 1.75rem 2rem;  
 display: -webkit-box;
@@ -248,70 +201,117 @@ align-items: center;
 -ms-flex-pack: justify;
 justify-content: space-between;
 }
-.f59982be1df60679099824dd99080b026 .card .card-header span{
-font-size: 1.5rem;
+.bf7bcc5b429d58818a7f5a2f251ffb33c{
+font-size: 14.1px;
 }
-.f59982be1df60679099824dd99080b026 .card .card-header .collapsed span{
--webkit-transform: rotate(-180deg);
-transform: rotate(-180deg);
+footer{
+background:#eeeeee;
+color:#010101;
 }
-a:hover{
-color:#ffffff;background:#4caf50!important;
+.navbar-toggler span{
+display: flex;
+align-items: center;
+color:white;
+justify-content: center;
+border: 1px solid lightgrey;
+border-radius: 3px;
 }
-.a190c3e5b73612cb7829aa05f8b9fa811{
+.u4c6edf6d497c60894f90b364b7560823 .row-item.yddf04d5f2e83ab200f0ec40abe767369{
+background: #efdcda;
+}
+.u4c6edf6d497c60894f90b364b7560823 .t62f69d71710c5010cebfca0f9a96b6e9{
+margin-bottom: 1.5rem;
+}
+.u4c6edf6d497c60894f90b364b7560823 h4{
+font-size:20px!important;
+}
+.d74c6c6209ad7ac297edc2eb75fad8969{
+font-size:48px!important;
+}
+.u4c6edf6d497c60894f90b364b7560823 .y8467195735b5b0f53d989b04d807a35b *{
+color:#000000;
+}
+.y71514cc666992a832decf7e4b877d678 p,.y71514cc666992a832decf7e4b877d678 a,.y71514cc666992a832decf7e4b877d678 span,.y71514cc666992a832decf7e4b877d678 label{
+font-size:19px!important;
+}
+.navbar a{
+font-size: 15.1px!important;text-decoration: none;text-transform:uppercase;
+font-weight: bold;
+}
+.u4c6edf6d497c60894f90b364b7560823 .row-item.x1e175cccfb4fcdde0b15fe3cb713dcb2{
+background: #c6e3e9;
+}
+.btn-md{
+padding: 15px 30.1px;
+border-radius: 0;
+}
+.waaec0d09b8e7639f65e61322e9186e0a *{
+color:#000000;
+}
+.u4c6edf6d497c60894f90b364b7560823 p,.{special_content1_class} a,.u4c6edf6d497c60894f90b364b7560823 label{
+font-size:18px!important;
+}
+.ec2a0a13e15fe382c3b87a631d58ce019{
+background: rgba(0, 0, 0, 0.6);
+text-align: center;
+}
+.ef62eaf941e086b9718046db371b35ccc{
+width: 100%;
+max-height: 720px;
+object-fit: cover;
+object-position: center;
+display: block;
+max-height: 100%;
+max-width: 100%;
+margin: auto;
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+}
+.u4c6edf6d497c60894f90b364b7560823 .waaec0d09b8e7639f65e61322e9186e0a *{
+color:#000000;
+}
+.yea726349903677c926ea945600a824a0 .card .card-body p:last-child{
+margin-bottom: 0;
+}
+.d0598e337d7cc648e1c059b2e380b029d p,.d0598e337d7cc648e1c059b2e380b029d span,.d0598e337d7cc648e1c059b2e380b029d label{
+font-size:19px!important;
+}
+.yf58ff9775a88c4110ef8882ac3411e77{
 font-weight: inherit;
-background-image: linear-gradient(120deg, #ffd466 0%, #ffcc5e 100%);
+background-image: linear-gradient(120deg, #ffc85a 0%, #ffd769 100%);
 background-repeat: no-repeat;
 background-size: 100% 30%;
 background-position: 0 90%;
 transition: background-size 0.2s ease-in;
 }
-.c02e8f81090347f422d293cbb3a45f1d9 .row-item.v56c566d166945e8ae4ee8c2f91a750fe{
-background: #efede9;
+.u4c6edf6d497c60894f90b364b7560823 .row-item.waaec0d09b8e7639f65e61322e9186e0a{
+background: #f2f0ec;
 }
-.c02e8f81090347f422d293cbb3a45f1d9 p,.{special_content1_class} a,.c02e8f81090347f422d293cbb3a45f1d9 label{
-font-size:18px!important;
+.x1e175cccfb4fcdde0b15fe3cb713dcb2{
+background:#ffffff!important ;
 }
-.vd1359fa91df4a899576c7b87ab5c9d73 p,.vd1359fa91df4a899576c7b87ab5c9d73 a,.vd1359fa91df4a899576c7b87ab5c9d73 span,.vd1359fa91df4a899576c7b87ab5c9d73 label{
-font-size:19px!important;
-}
-.btn-md{
-padding: 14.5px 29.9px;
-border-radius: 0;
-}
-.t3a436c7f5139e316241542db760456bc{
-text-decoration: underline!important;color:#4caf50!important
-}
-iframe{
-border: none!important;
-}
-.c02e8f81090347f422d293cbb3a45f1d9 .u69cc81f7fd30fcd48b60603d0d1ca0d8 *{
+.y71514cc666992a832decf7e4b877d678{
+background:#ffffff;
 color:#000000;
 }
-.y1a1d0b3beb36007a0185013f2e380e80{
-transition: all 0.3s; 
+.ec2a0a13e15fe382c3b87a631d58ce019 *{
+color: white !important;
 }
-.t3db0caf5b91d48cc273167a9acb40403{
-background: rgba(0, 0, 0, 0.6);
-text-align: center;
+.u4c6edf6d497c60894f90b364b7560823 .card-img{
+margin-bottom: 1.7rem;
+text-align: left;
 }
-.nav-item{
-padding-left:8px;
-padding-right:8.1px;
-padding-top:5.5px;
-padding-bottom:5px;
+.nav-link{
+color: #ffffff;
+
 }
-.c02e8f81090347f422d293cbb3a45f1d9 .row-item.wf1a3055350a945746ec5944510131370{
-background: #f5e2e0;
+.yea726349903677c926ea945600a824a0 .card:last-child{
+margin-bottom: 0;
 }
-*{
-font-family: 'Inconsolata', sans-serif;
-}
-html{
-scroll-behavior: smooth;
-}
-.c02e8f81090347f422d293cbb3a45f1d9 h4{
-font-size:20px!important;
+.u4c6edf6d497c60894f90b364b7560823 .x1e175cccfb4fcdde0b15fe3cb713dcb2 *{
+color:#000000;
 }
  </style>
 <style type="text/css"> 
@@ -339,19 +339,19 @@ font-size:20px!important;
     z-index: 2;
 }
 @media only screen and (max-width:1000px) {
-.u001afe0c828ee6d6438dfbeaccd5af39 img{
+.wf5ab4243c0c1b309c4dd1bf9237ccfb8 img{
 position: initial!important;
 }
-.u001afe0c828ee6d6438dfbeaccd5af39 {
+.wf5ab4243c0c1b309c4dd1bf9237ccfb8 {
   min-height: auto;
 }
-.z35a72e0912d514a88e460bddee7fe605 {
+.d74c6c6209ad7ac297edc2eb75fad8969 {
 font-size: 20px;
 }
-.fce4e0305d12fabf64f1009ea12be7d74 {
+.eba93af04032df74a8c39c5c189650458 {
 font-size: 15px !important;
 }
-.a2746cdfccd61abc79a813b5d7eeb07e2{
+.d3b28b3e989b5e2ed64cec7d8f257110c{
 padding-bottom: 0px !important;
 }
 } 
@@ -622,28 +622,28 @@ a{
 </style>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar-expand-lg navbar">
 <a class="navbar-brand" href="index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="justify-content-around navbar-nav align-items-center w-100 d-flex"><li class="nav-item">
-<a class="nav-link bbdac5671eeda73a77abacad4b10f532c" href="index.html" >accident lawyer</a>
+<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="align-items-center w-100 justify-content-around d-flex navbar-nav"><li class="nav-item">
+<a class="c4bb84ba441ecfaaab322699fdc59da18 nav-link" href="index.html" >accident lawyer</a>
 </li>
 <li class="nav-item">
-<a class="nav-link bbdac5671eeda73a77abacad4b10f532c" href="injury-compensation.html" >injury compensation</a>
+<a class="nav-link c4bb84ba441ecfaaab322699fdc59da18" href="injury-compensation.html" >injury compensation</a>
 </li>
 <li class="nav-item">
-<a class="nav-link bbdac5671eeda73a77abacad4b10f532c" href="hamilton-accident-compensation.html" >Hamilton accident compensation</a>
+<a class="c4bb84ba441ecfaaab322699fdc59da18 nav-link" href="hamilton-accident-compensation.html" >Hamilton accident compensation</a>
 </li>
 <li class="nav-item">
-<a class="nav-link bbdac5671eeda73a77abacad4b10f532c" href="hamilton-injury-claim.html" >Hamilton injury claim</a>
+<a class="nav-link c4bb84ba441ecfaaab322699fdc59da18" href="hamilton-injury-claim.html" >Hamilton injury claim</a>
 </li>
-<li class="dropdown nav-item">
-<a class="dropdown-toggle bbdac5671eeda73a77abacad4b10f532c nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<li class="nav-item dropdown">
+<a class="dropdown-toggle c4bb84ba441ecfaaab322699fdc59da18 nav-link" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
 <a class="dropdown-item" href="personal-injury-claims-hamilton.html"  >Personal Injury Claims Hamilton</a><a class="dropdown-item" href="personal-injury-lawsuit.html"  >Personal Injury Lawsuit</a><a class="dropdown-item" href="personal-injury-lawyer.html"  >Personal Injury lawyer</a><a class="dropdown-item" href="personal-injury-claims.html"  >Personal Injury Claims</a><a class="dropdown-item" href="hamilton-injury-lawyer.html"  >Hamilton injury lawyer</a><a class="dropdown-item" href="injury-lawyer.html"  >injury lawyer</a></div>
 </li>
-<li class="nav-item"><a class="bbdac5671eeda73a77abacad4b10f532c nav-link" rel=nofollow href="about-us.html">About Us</a>
+<li class="nav-item"><a class="c4bb84ba441ecfaaab322699fdc59da18 nav-link" rel=nofollow href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -710,23 +710,23 @@ https://injured.ca/</br>
 </p>
 </section>
 <footer>
-<div class="pt-5 py-4 container" >
+<div class="pt-5 container py-4" >
 <div class="row"><div class="col-lg-3">
 <p>Lalande Personal Injury & Long-Term Disability Lawyers</p>
 <p>Address : 1 King St W Ste 1705, Hamilton, ON L8P 1A1, Canada</p>
-<p>Company Website : <a class="bbdac5671eeda73a77abacad4b10f532c" href="https://injured.ca/" rel="nofollow">https://injured.ca/</a></p>
-</div><div class="col-lg-3"><p><a class="bbdac5671eeda73a77abacad4b10f532c" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="bbdac5671eeda73a77abacad4b10f532c" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="bbdac5671eeda73a77abacad4b10f532c" href="about-us.html" rel="nofollow">About Us</a></p>
+<p>Company Website : <a class="c4bb84ba441ecfaaab322699fdc59da18" href="https://injured.ca/" rel="nofollow">https://injured.ca/</a></p>
+</div><div class="col-lg-3"><p><a class="c4bb84ba441ecfaaab322699fdc59da18" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="c4bb84ba441ecfaaab322699fdc59da18" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="c4bb84ba441ecfaaab322699fdc59da18" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/LalandeLawyers " class="fd4f26b8fbf443b222d2fe7f3e753f46c facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://ca.linkedin.com/company/lalande-personal-injury-lawyers " class="fd4f26b8fbf443b222d2fe7f3e753f46c pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
-<a href="https://www.instagram.com/lawyer-matt " class="fd4f26b8fbf443b222d2fe7f3e753f46c google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/channel/UCfcvaasq6RvUG4S186qOjKQ" class="fd4f26b8fbf443b222d2fe7f3e753f46c youtube" rel="nofollow"><i class="fa fa-youtube"></i></a>
-<a href="https://x.com/hamiltonlawyer " class="twitter fd4f26b8fbf443b222d2fe7f3e753f46c" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/LalandeLawyers " class="facebook w6a65ada7104c3c06c1ecdfc640ec91cd" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://ca.linkedin.com/company/lalande-personal-injury-lawyers " class="pinterest w6a65ada7104c3c06c1ecdfc640ec91cd" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/lawyer-matt " class="w6a65ada7104c3c06c1ecdfc640ec91cd google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/channel/UCfcvaasq6RvUG4S186qOjKQ" class="w6a65ada7104c3c06c1ecdfc640ec91cd youtube" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://x.com/hamiltonlawyer " class="twitter w6a65ada7104c3c06c1ecdfc640ec91cd" rel="nofollow"><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
 </div>
